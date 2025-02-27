@@ -77,14 +77,5 @@ PORT=5000
 | GET | `/api/messages` | Отримати останні 50 повідомлень |
 | POST | `/api/messages` | Надіслати нове повідомлення (через Socket.io) |
 
----
 
-## 💡 Автор
-🔹 **Created by:** [Your Name](https://github.com/your-username)  
-📧 Email: your-email@example.com
-
----
-
-## 📜 Ліцензія
-MIT License © 2025
 
