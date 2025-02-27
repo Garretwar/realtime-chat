@@ -1,0 +1,29 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+
+# Build files
+build/
+dist/
+
+# Frontend dependencies
+frontend/node_modules/
+frontend/.vite/
+
+# Backend dependencies
+backend/node_modules/
+
+# Editor & OS specific
+.DS_Store
+.vscode/
+.idea/
+*.swp
+
